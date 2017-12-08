@@ -1,0 +1,25 @@
+﻿Aluminum Beam
+Aluminum Column
+Concrete Beam
+Concrete Column
+Concrete Pier
+Concrete Pile
+Fireproofing Type
+Mat Foundation
+Pile Cap
+Spread Footing
+Steel Beam
+Steel Cladding
+Steel Column
+Steel Deck
+Steel Horizontal Brace
+Steel Pile
+Steel Purlin
+Steel Vertical Brace
+Strip Footing
+Timber Plate
+Timber Post
+Timber Joist
+Timber Stud
+Base Plate
+Slab
