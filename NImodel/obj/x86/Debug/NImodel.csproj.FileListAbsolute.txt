@@ -22,3 +22,6 @@ D:\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.csproj.ResolveComReference.
 D:\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.exe
 D:\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.pdb
 D:\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.csprojResolveAssemblyReference.cache
+F:\Workspace\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.csprojResolveAssemblyReference.cache
+F:\Workspace\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.exe
+F:\Workspace\NETProjects\NImodel\NImodel\obj\x86\Debug\NImodel.pdb

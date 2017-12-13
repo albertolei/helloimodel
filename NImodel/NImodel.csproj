@@ -89,6 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IModelSchemax.cs" />
+    <Compile Include="TestChineseV.cs" />
     <Compile Include="Utils\ExcelUtil.cs" />
     <Compile Include="Utils\FileIOUtil.cs" />
     <Compile Include="Dao\ModelDao.cs" />
